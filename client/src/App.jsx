@@ -144,7 +144,7 @@ const MainLayout = () => {
       <footer className="bg-white border-t border-gray-200 mt-auto py-12 z-10 relative">
         <div className="max-w-7xl mx-auto px-4 text-center">
           <p className="text-gray-400 text-sm">
-            © 2024 Remixr App. Built with MERN Stack.
+            © Remixr App.
           </p>
         </div>
       </footer>
